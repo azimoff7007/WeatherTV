@@ -1,0 +1,34 @@
+{
+  "clear_day": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_day_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_day_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_day_3.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_day_4.jpg"
+  ],
+  "clear_night": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_night_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/clear_night_2.jpg"
+  ],
+  "cloudy_day": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/cloudy_day_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/cloudy_day_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/cloudy_day_3.jpg"
+  ],
+  "cloudy_night": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/cloudy_night_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/cloudy_night_2.jpg"
+  ],
+  "rainy": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/rainy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/rainy_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/rainy_3.jpg"
+  ],
+  "snowy": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/snowy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/snowy_2.jpg"
+  ],
+  "foggy": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/foggy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/foggy_2.jpg"
+  ]
+}
