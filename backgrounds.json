@@ -32,10 +32,10 @@
     "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_2.jpg"
   ],
     "clear_day_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_2.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_3.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_4.jpg"
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video3.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video4.jpg"
   ],
   "clear_night_video": [
     "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_night_1.jpg",
