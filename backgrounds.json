@@ -42,9 +42,9 @@
     "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_night_2.jpg"
   ],
   "cloudy_day_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day_2.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day_3.jpg"
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day1.mp4",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day2.mp4",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/cloudy_day3.mp4"
   ],
   "cloudy_night_video": [
   ],
