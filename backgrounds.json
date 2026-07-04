@@ -30,5 +30,36 @@
   "foggy": [
     "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_1.jpg",
     "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_2.jpg"
-  ]
+  ],
+    "clear_day_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_3.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_4.jpg"
+  ],
+  "clear_night_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_night_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_night_2.jpg"
+  ],
+  "cloudy_day_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_3.jpg"
+  ],
+  "cloudy_night_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_night_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_night_2.jpg"
+  ],
+  "rainy_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_2.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_3.jpg"
+  ],
+  "snowy_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/snowy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/snowy_2.jpg"
+  ],
+  "foggy_video": [
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_1.jpg",
+    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_2.jpg"
 }
