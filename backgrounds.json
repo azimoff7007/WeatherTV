@@ -1,18 +1,45 @@
 {
   "clear_day": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_1.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_1.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_2.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_3.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_5.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_6.jpg"
   ],
   "clear_night": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_1.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_1.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_2.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_3.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_5.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_6.jpg"
   ],
   "cloudy_day": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_1.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_1.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_2.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_3.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_5.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_6.jpg"
   ],
   "cloudy_night": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_1.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_1.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_2.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_3.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_5.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_6.jpg"
   ],
   "rainy_day": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_1.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_1.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_2.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_3.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_4.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_5.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_6.jpg",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_7.jpg"
   ],
   "rainy_night": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_night_1.jpg"
