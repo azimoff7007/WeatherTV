@@ -1,58 +1,75 @@
 {
   "clear_day": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_2.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_3.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_day_4.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_1.jpg"
   ],
   "clear_night": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_night_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/clear_night_2.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_1.jpg"
   ],
   "cloudy_day": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_2.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_day_3.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_1.jpg"
   ],
   "cloudy_night": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_night_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/cloudy_night_2.jpg"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_1.jpg"
   ],
-  "rainy": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_2.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/rainy_3.jpg"
+  "rainy_day": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_1.jpg"
   ],
-  "snowy": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/snowy_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/snowy_2.jpg"
+  "rainy_night": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_night_1.jpg"
   ],
-  "foggy": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_1.jpg",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_pic/foggy_2.jpg"
+  "snowy_day": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_day_1.jpg"
   ],
-    "clear_day_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video2.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video3.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video4.mp4"
+  "snowy_night": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_night_1.jpg"
+  ],
+  "foggy_day": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_day_1.jpg"
+  ],
+  "foggy_night": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_night_1.jpg"
+  ],
+  "storm_day": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_day_1.jpg"
+  ],
+  "storm_night": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_night_1.jpg"
+  ],
+
+  "clear_day_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_1.mp4"
   ],
   "clear_night_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_1.mp4"
   ],
   "cloudy_day_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4",
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_1.mp4"
   ],
   "cloudy_night_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_1.mp4"
   ],
-  "rainy_video": [
-    "https://raw.githubusercontent.com/azimoff7007/WeatherTV/main/background_vid/clear_day_video1.mp4"
+  "rainy_day_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_day_1.mp4"
   ],
-  "snowy_video": [
+  "rainy_night_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_night_1.mp4"
   ],
-  "foggy_video": [
+  "snowy_day_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_1.mp4"
+  ],
+  "snowy_night_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_night_1.mp4"
+  ],
+  "foggy_day_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_day_1.mp4"
+  ],
+  "foggy_night_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_night_1.mp4"
+  ],
+  "storm_day_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_day_1.mp4"
+  ],
+  "storm_night_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_night_1.mp4"
   ]
 }
