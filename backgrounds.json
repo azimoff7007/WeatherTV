@@ -1,4 +1,8 @@
 {
+  "// ИНСТРУКЦИЯ": "Ниже представлены разделы для фоновых картинок (обоев) и видеороликов, разделенные по погоде и фазам суток. Вы можете добавлять свои прямые ссылки на Cloudflare в соответствующие списки.",
+
+  "// ==================== РАЗДЕЛ 1: ФОНОВЫЕ КАРТИНКИ (ОБОИ) ====================",
+  
   "clear_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_day_2.jpg",
@@ -23,6 +27,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/clear_night_10.jpg"
   ],
+  "clear_sunrise": [],
+  "clear_sunset": [],
+  "clear_deep_night": [],
+
   "cloudy_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_day_2.jpg",
@@ -47,6 +55,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/cloudy_night_10.jpg"
   ],
+  "cloudy_sunrise": [],
+  "cloudy_sunset": [],
+  "cloudy_deep_night": [],
+
   "rainy_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_day_2.jpg",
@@ -71,6 +83,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/rainy_night_10.jpg"
   ],
+  "rainy_sunrise": [],
+  "rainy_sunset": [],
+  "rainy_deep_night": [],
+
   "snowy_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_day_2.jpg",
@@ -95,6 +111,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/snowy_night_10.jpg"
   ],
+  "snowy_sunrise": [],
+  "snowy_sunset": [],
+  "snowy_deep_night": [],
+
   "foggy_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_day_2.jpg",
@@ -119,6 +139,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/foggy_night_10.jpg"
   ],
+  "foggy_sunrise": [],
+  "foggy_sunset": [],
+  "foggy_deep_night": [],
+
   "storm_day": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_day_1.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_day_2.jpg",
@@ -143,30 +167,45 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_night_9.jpg",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_pic/storm_night_10.jpg"
   ],
+  "storm_sunrise": [],
+  "storm_sunset": [],
+  "storm_deep_night": [],
+
+  "// ==================== РАЗДЕЛ 2: ВИДЕОРОЛИКИ ====================",
+
+  "clear_sunrise_video": [
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunrise_1.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunrise_2.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunrise_3.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunrise_4.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunrise_5.mp4"
+  ],
   "clear_day_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_5.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_6.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_7.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_8.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_9.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_day_10.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_1.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_2.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_3.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_4.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_5.mp4"
+  ],
+  "clear_sunset_video": [
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_1.mp4,
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_2.mp4,
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_3.mp4,
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_4.mp4,
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_5.mp4    
   ],
   "clear_night_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_5.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_6.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_7.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_8.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_9.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/clear_night_10.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_3.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4"    
   ],
+  "clear_deep_night_video": [
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_1.mp4,
+    https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_2.mp4
+  ],
+
   "cloudy_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_2.mp4",
@@ -191,6 +230,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_10.mp4"
   ],
+  "cloudy_sunrise_video": [],
+  "cloudy_sunset_video": [],
+  "cloudy_deep_night_video": [],
+
   "rainy_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_day_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_day_2.mp4",
@@ -215,6 +258,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_night_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/rainy_night_10.mp4"
   ],
+  "rainy_sunrise_video": [],
+  "rainy_sunset_video": [],
+  "rainy_deep_night_video": [],
+
   "snowy_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_2.mp4",
@@ -224,7 +271,7 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_6.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_7.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_8.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_9.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.dev/background_vid/snowy_day_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_day_10.mp4"
   ],
   "snowy_night_video": [
@@ -239,6 +286,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_night_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/snowy_night_10.mp4"
   ],
+  "snowy_sunrise_video": [],
+  "snowy_sunset_video": [],
+  "snowy_deep_night_video": [],
+
   "foggy_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_day_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_day_2.mp4",
@@ -263,6 +314,10 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_night_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/foggy_night_10.mp4"
   ],
+  "foggy_sunrise_video": [],
+  "foggy_sunset_video": [],
+  "foggy_deep_night_video": [],
+
   "storm_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_day_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_day_2.mp4",
@@ -286,5 +341,8 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_night_8.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_night_9.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/storm_night_10.mp4"
-  ]
+  ],
+  "storm_sunrise_video": [],
+  "storm_sunset_video": [],
+  "storm_deep_night_video": []
 }
