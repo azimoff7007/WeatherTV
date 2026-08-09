@@ -195,40 +195,48 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Days/clear_day_sunset_5.mp4"    
   ],
   "clear_night_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_1.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_2.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_3.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_0.mp4"    
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_5.mp4"    
   ],
   "clear_deep_night_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_2.mp4"
   ],
 
+"https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_3.mp4"
+  ],
+
+"https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_4.mp4"
+  ],
+
+"https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_5.mp4"
+  ],
   "cloudy_day_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_5.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_1.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid//Cloudy/Day/cloudy_day_2.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_3.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_4.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_5.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_6.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_7.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_7.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_8.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_9.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_day_10.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_9.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_day_10.mp4"
   ],
   "cloudy_night_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/cloudy_night_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/cloudy_night_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_5.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_6.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_7.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/Clear/Night/clear_night_1.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/Clear/Night/cloudy_night_2.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/Clear/Night/cloudy_night_3.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_4.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_5.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_6.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_7.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_8.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_9.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/cloudy_night_10.mp4"
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_9.mp4",
+    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloudy/Day/cloudy_night_10.mp4"
   ],
   "cloudy_sunrise_video": [],
   "cloudy_sunset_video": [],
