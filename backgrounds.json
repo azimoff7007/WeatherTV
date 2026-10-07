@@ -7,37 +7,31 @@
   "clear_day": [],
   "clear_sunset": [],
   "clear_night": [],
-  "clear_deep_night": [],
 
   "cloudy_sunrise": [],
   "cloudy_day": [],
   "cloudy_sunset": [],
   "cloudy_night": [],
-  "cloudy_deep_night": [],
 
   "rainy_day": [],
   "rainy_night": [],
   "rainy_sunrise": [],
   "rainy_sunset": [],
-  "rainy_deep_night": [],
 
   "snowy_day": [],
   "snowy_night": [],
   "snowy_sunrise": [],
   "snowy_sunset": [],
-  "snowy_deep_night": [],
 
   "foggy_day": [],
   "foggy_night": [],
   "foggy_sunrise": [],
   "foggy_sunset": [],
-  "foggy_deep_night": [],
 
   "storm_day": [],
   "storm_night": [],
   "storm_sunrise": [],
   "storm_sunset": [],
-  "storm_deep_night": [],
 
   "// ==================== РАЗДЕЛ 2: ВИДЕОРОЛИКИ ====================//",
 
@@ -75,18 +69,6 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_4.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_5.mp4"
   ],
-  "clear_deep_night_video": [
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_night_5.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_1.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_2.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_3.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_4.mp4",
-    "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Clear/Night/clear_deep_night_5.mp4"
-  ],
   "cloudy_sunrise_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloud/Day/cloudy_day_sunrise_1.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloud/Day/cloudy_day_sunrise_1.mp4"
@@ -104,7 +86,6 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Cloud/Day/cloudy_day_sunset_2.mp4"
   ],
   "cloudy_night_video": [],
-  "cloudy_deep_night_video": [],
   "rainy_sunrise_video": [],
   "rainy_day_video": [
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Rain/Day/rainy_day_1.mp4",
@@ -116,23 +97,19 @@
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Rain/Night/rainy_night_2.mp4",
     "https://pub-1b09d674bf404929b890b06315a60ea3.r2.dev/background_vid/Rain/Night/rainy_night_3.mp4"
   ],
-  "rainy_deep_night_video": [],
 
   "snowy_day_video": [],
   "snowy_night_video": [],
   "snowy_sunrise_video": [],
   "snowy_sunset_video": [],
-  "snowy_deep_night_video": [],
 
   "foggy_day_video": [],
   "foggy_night_video": [],
   "foggy_sunrise_video": [],
   "foggy_sunset_video": [],
-  "foggy_deep_night_video": [],
 
   "storm_day_video": [],
   "storm_night_video": [],
   "storm_sunrise_video": [],
-  "storm_sunset_video": [],
-  "storm_deep_night_video": []
+  "storm_sunset_video": []
 }
